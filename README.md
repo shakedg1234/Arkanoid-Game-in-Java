@@ -31,9 +31,9 @@ This project comes with a `build.xml` file for easy compilation and execution.
 
 To compile the code, use the following Ant command:
 
-```bash
+bash
 ant compile
-bash```
+bash
 
 To run the compiled code, use:
 
