@@ -1,7 +1,8 @@
 # Arkanoid Game in Java
 
 ## Overview
-This is a Java-based implementation of the classic Arkanoid game. The game features a paddle controlled by the player and a ball that bounces off the paddle and bricks. The goal is to break all the bricks without letting the ball touch the ground.
+
+This is a Java-based implementation of the classic Arkanoid game. The game features a paddle controlled by the player and a ball that bounces off the paddle and bricks. The goal is to break all the bricks without letting the ball touch the ground. I wrote this project, an Arkanoid game, as part of an Object-Oriented Programming course I took at Bar Ilan University.
 
 ## Features
 - **Paddle Movement:** Use keyboard arrows to control the paddle's movement.
@@ -51,4 +52,12 @@ Controls
 Left Arrow: Move paddle left
 Right Arrow: Move paddle right
 Space: Exit the game after loss/win
-P: Pause the gam
+P: Pause the game
+
+
+### Photos:
+![image](https://github.com/user-attachments/assets/6fdc404d-50f0-468c-9c09-f91a10a3eea8)
+![image](https://github.com/user-attachments/assets/12b1fe4f-1e40-4573-b513-bb043d716a51)
+![image](https://github.com/user-attachments/assets/f0b7a07a-bf82-4f04-a883-08e24bea229c)
+
+
