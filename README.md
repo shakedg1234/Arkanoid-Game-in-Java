@@ -31,20 +31,20 @@ This project comes with a `build.xml` file for easy compilation and execution.
 
 To compile the code, use the following Ant command:
 
-```bashbash
+```bash
 ant compile
 ```
 
 To run the compiled code, use:
 
-bash
-Copy code
+```bash
 ant run
+```
 You can specify the sequence of levels to play by passing arguments to the ant run command like this:
 
-bash
-Copy code
-ant -Dargs="1 3 2 1 9 1 bla 3 3" run
+```bash
+ant -Dargs="1 2 3 run
+```
 The numbers and strings represent the order of levels that will be loaded during the game.
 
 Controls
