@@ -33,6 +33,8 @@ To compile the code, use the following Ant command:
 
 ```bash
 ant compile
+bash```
+
 To run the compiled code, use:
 
 bash
